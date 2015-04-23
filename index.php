@@ -9,6 +9,8 @@
 // Ici par Mark James <http://www.famfamfam.com/lab/icons/silk/>
 ////Edit this file
 
+/// Edited by Yuva_chavan@rediffmail.com
+
 
 //chemin jusqu'au fichier de conf de WampServer
 $wampConfFile = '../wampmanager.conf';
